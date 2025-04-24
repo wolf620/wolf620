@@ -32,10 +32,7 @@
 <!-- Github Statistics Cards -->
 
 
-  ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=hashfx&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@hashfx-Github-stats&rank_icon=percentile)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashfx&theme=react&custom_title=Most-Used-Languages)](https://github.com/hashfx/github-readme-stats) 
 
 
 
